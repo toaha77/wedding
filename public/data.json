@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/16Vrw35/abby-savage-z-Ns-Swsuy-P3-A-unsplash.jpg",
+        "title": "The Venue",
+        "price" : "$7000",
+        "text" : "Bristol, U.K" 
+         
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/9WWtFX9/alvin-mahmudov-NSVJAAXOYHs-unsplash.jpg",
+        "title": "What to Wear",
+        "price" : "$4000",
+         "text": "No jeans or cowboy hats please"
+       },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/2Fmr931/siamak-Ydu-JNHSn-JUU-unsplash.jpg",
+        "title": "Restaurant",
+         "price" : "$2000",
+         "text": "California"
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/2hw2npD/samuel-rios-LA9p-Kv-LO88-unsplash.jpg",
+        "title": "PhotoGrapher",
+        "price" : "$2000",
+        "text": "Nohan  Photography"
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/cLjKwmt/shardayyy-photography-f-Jzm-Pe-a0e-U-unsplash.jpg",
+        "title": "Event Planning",
+        "price" : "$8000",
+        "text": "New-Work Event Management"
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/1drnDMW/paulina-ponce-P4z15-DCQ8-I-unsplash.jpg",
+        "title": "Floral Design ",
+        "price" : "$9000",
+        "text": "New-Work Event Management"
+        
+      }
+]
+  
+  
+  
